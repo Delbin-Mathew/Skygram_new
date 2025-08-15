@@ -72,8 +72,8 @@ Final page where the generated image is shown.
 ### Project Demo
 # Video
 (https://github.com/Delbin-Mathew/Skygram_new/blob/main/Media/SkyGram%20(1)%20(1).mp4)
-*Explain what the video demonstrates*
-full working 
+Project Video Description
+This 54-second video presents a clear and engaging walkthrough of our project, demonstrating its design, functionality, and user interaction flow. The opening scene introduces the main interface, giving viewers an overview of the clean and well-structured layout. As the video progresses, it transitions through different sections of the application, showcasing how the core features work in real time. Smooth navigation and responsive elements highlight the project’s usability and performance. The video maintains a steady pace, ensuring each feature is visible and easy to follow, while the closing moments neatly wrap up the demonstration, leaving a clear impression of the project’s capabilities and potential applications.
 # Additional Demos
 
 ## Team Contributions
@@ -84,4 +84,5 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https
+
 
