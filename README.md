@@ -71,7 +71,7 @@ Final page where the generated image is shown.
 
 ### Project Demo
 # Video
-[Media/SkyGram (1) (1).mp4]
+(https://github.com/Delbin-Mathew/Skygram_new/blob/main/Media/SkyGram%20(1)%20(1).mp4)
 *Explain what the video demonstrates*
 full working 
 # Additional Demos
@@ -84,3 +84,4 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https
+
