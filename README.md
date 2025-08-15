@@ -10,7 +10,7 @@
 
 ### Team Members
 - Team Lead: Delbin Mathew - Toch Institute of science and technology arakkunam
-- Member 2: Ria Reji - Toch Institute of science and technology arakkunam
+
 
 ### Project Description
 A web app where users upload a cloud photo, and the system finds the most resembling object, generates picture of it, shows before–after images with a funny caption, and allows download.
@@ -78,13 +78,14 @@ This 54-second video presents a clear and engaging walkthrough of our project, d
 # Additional Demos
 
 ## Team Contributions
-- Delbin Mathew: backend
-- Ria Reji: frontend
+- Delbin Mathew: full
+
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https
+
 
 
 
